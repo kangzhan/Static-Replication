@@ -1,5 +1,3 @@
-﻿//康展    1701210012
-//衍生工具模型期末大作业程序代码第一部分：头文件部分
 //该文件声明了所有需要用到的函数，期权大类Option及其派生类Vanilla_Call、Asian_Call、Up_and_out_Call，以及每个类内部的函数
 
 #include <vector>
