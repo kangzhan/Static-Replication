@@ -1,5 +1,3 @@
-﻿//康展    1701210012
-//衍生工具模型期末大作业程序代码第二部分：代码实现部分
 //该文件对头文件"Option-Function.h"中声明的函数、类以及类的方法进行了定义
 //该部分的核心函数是亚式期权半静态复制的定价函数double Static_Replication(double S0, double K, int T, double r, double q, double sigma, double stepsize)
 //我们对上述函数进行了详细的注释说明
